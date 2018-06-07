@@ -42,20 +42,20 @@
 
 ## db-[99:101]-node.example.com
 
-[ansible]
+[ansible-servers]
 ansible
 
-[zabbix]
+[zabbix-servers]
 zabbix
 
-[virt-host]
+[virt-hosts]
 virt-host1
 
-[virt-engine]
+[virt-engines]
 virt-engine1
 
 [windows]
 ad
 
-[firewall]
+[firewalls]
 firewall
