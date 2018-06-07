@@ -58,4 +58,4 @@
 192.168.0.10
 
 [firewall]
-192.168.0.1
+firewall.knockturn.local
