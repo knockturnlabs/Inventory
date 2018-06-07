@@ -58,4 +58,4 @@
 192.168.0.10
 
 [firewall]
-firewall.knockturn.local
+firewall.knockturn.local ansible_connection=local
