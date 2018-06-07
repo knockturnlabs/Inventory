@@ -43,19 +43,19 @@
 ## db-[99:101]-node.example.com
 
 [ansible]
-192.168.0.7
+ansible
 
 [zabbix]
-192.168.0.9
+zabbix
 
-[virt-host1]
-192.168.0.30
+[virt-host]
+virt-host1
 
-[virt-engine1]
-192.168.0.31
+[virt-engine]
+virt-engine1
 
-[ad]
-192.168.0.10
+[windows]
+ad
 
 [firewall]
-firewall.knockturn.local ansible_connection=local
+firewall
